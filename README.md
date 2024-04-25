@@ -1,7 +1,6 @@
-<!DOCTYPE html>
+
 <html>
 <head>
-    <title>CSST 104 - Activities and Exercises</title>
     <style>
 
         .btn-container {
