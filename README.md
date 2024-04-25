@@ -38,7 +38,7 @@
         }
 
         body {
-            background-image: url('bg/machine-learning_2.jpg');
+            background-image: url('https://raw.githubusercontent.com/laganzonj/exercise_activity-CSST104-3B/main/bg/machine-learning_2.jpg');
             background-size: cover;
             background-repeat: no-repeat;
             background-attachment: fixed;
