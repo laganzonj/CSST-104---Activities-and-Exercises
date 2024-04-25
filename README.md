@@ -1,5 +1,6 @@
 <html>
 <head>
+    <title>CSST 104 - Activities and Exercises</title>
     <style>
 
         .btn-container {
@@ -26,9 +27,29 @@
         .btn-container button.active {
             background-color: #ccc;
         }
+        
+        body {
+            font-family: "Courier New", Courier, monospace;
+        }
+
+        p b {
+            font-size: 18px;
+            color: white;
+        }
+
+        body {
+            background-image: url('file:///C:/VODA/bg/machine-learning_2.jpg');
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+        }
+        h2 {
+            color: white; 
+        }
     </style>
-</head>
+</head> 
 <body>
+
 
 <p><b>I am Jonathan Q. Laganzon, a BSCS-IS-3B student. This webpage contains my exercises and activities for CSST 104. The activities and exercises focus on building models for regression or prediction, allowing me to explore and apply various concepts in data science and statistical modeling.</b></p>
 
