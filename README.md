@@ -1,52 +1,32 @@
-# exercise_activity-CSST104-3B
-Compilation of activities and exercises in CSST 104
-
+<!DOCTYPE html>
 <html>
 <head>
-    <title>Button Links</title>
-    <style>
-        /* Style the button container */
-        .btn-container {
-            overflow: hidden;
-            border: 1px solid #ccc;
-            background-color: #f1f1f1;
-        }
-
-        /* Style the buttons */
-        .btn-container button {
-            background-color: inherit;
-            float: left;
-            border: none;
-            outline: none;
-            cursor: pointer;
-            padding: 14px 16px;
-            transition: 0.3s;
-        }
-
-        /* Change background color of buttons on hover */
-        .btn-container button:hover {
-            background-color: #ddd;
-        }
-
-        /* Create an active/current button class */
-        .btn-container button.active {
-            background-color: #ccc;
-        }
-    </style>
+    <title>Activities and Exercises</title>
 </head>
 <body>
 
-<div class="btn-container">
-    <button class="btn" onclick="openLink('https://github.com/laganzonj/exercise_activity-CSST104-3B/commit/ee868a6be03ac46869f448ceaf9ff07abadce1a4')" id="btn1">Link 1</button>
-    <button class="btn" onclick="openLink('https://www.example.com/link2')" id="btn2">Link 2</button>
-    <button class="btn" onclick="openLink('https://www.example.com/link3')" id="btn3">Link 3</button>
-</div>
+<h2>Activities:</h2>
 
-<script>
-    function openLink(url) {
-        window.location.href = url;
-    }
-</script>
+<ul>
+    <li><a href="https://github.com/laganzonj/exercise_activity-CSST104-3B/blob/ef12d6f62645f822e078fd9884b2ee19e68b1575/Activities/3B_LAGANZON_ACT1.ipynb">Activity 1</a></li>
+    <li><a href="https://github.com/laganzonj/exercise_activity-CSST104-3B/blob/ef12d6f62645f822e078fd9884b2ee19e68b1575/Activities/3B_LAGANZON_ACT2.ipynb">Activity 2</a></li>
+    <li><a href="https://github.com/laganzonj/exercise_activity-CSST104-3B/blob/ef12d6f62645f822e078fd9884b2ee19e68b1575/Activities/3B_LAGANZON_ACT3.ipynb">Activity 3</a></li>
+    <li><a href="https://github.com/laganzonj/exercise_activity-CSST104-3B/blob/ef12d6f62645f822e078fd9884b2ee19e68b1575/Activities/3B_LAGANZON_ACT4.ipynb">Activity 4</a></li>
+</ul>
+
+<h2>Exercises:</h2>
+
+<ul>
+    <li><a href="https://github.com/laganzonj/exercise_activity-CSST104-3B/blob/ef12d6f62645f822e078fd9884b2ee19e68b1575/Exercises/3B-LAGANZON-EXER1.ipynb">Exercise 1</a></li>
+    <li><a href="https://github.com/laganzonj/exercise_activity-CSST104-3B/blob/ef12d6f62645f822e078fd9884b2ee19e68b1575/Exercises/3B_LAGANZON_EXER2.ipynb">Exercise 2</a></li>
+    <li><a href="https://github.com/laganzonj/exercise_activity-CSST104-3B/blob/ef12d6f62645f822e078fd9884b2ee19e68b1575/Exercises/3B_LAGANZON_EXER3.ipynb">Exercise 3</a></li>
+    <li><a href="https://github.com/laganzonj/exercise_activity-CSST104-3B/blob/ef12d6f62645f822e078fd9884b2ee19e68b1575/Exercises/3B_LAGANZON_EXER4.ipynb">Exercise 4</a></li>
+    <li><a href="https://github.com/laganzonj/exercise_activity-CSST104-3B/blob/ef12d6f62645f822e078fd9884b2ee19e68b1575/Exercises/3B_LAGANZON_EXER5.ipynb">Exercise 5</a></li>
+    <li><a href="https://github.com/laganzonj/exercise_activity-CSST104-3B/blob/ef12d6f62645f822e078fd9884b2ee19e68b1575/Exercises/3B_LAGANZON_EXER6.ipynb">Exercise 6</a></li>
+    <li><a href="https://github.com/laganzonj/exercise_activity-CSST104-3B/blob/ef12d6f62645f822e078fd9884b2ee19e68b1575/Exercises/3B_LAGANZON_EXER7.ipynb">Exercise 7</a></li>
+    <li><a href="https://github.com/laganzonj/exercise_activity-CSST104-3B/blob/ef12d6f62645f822e078fd9884b2ee19e68b1575/Exercises/3B_LAGANZON_EXER8.ipynb">Exercise 8</a></li>
+    <li><a href="https://github.com/laganzonj/exercise_activity-CSST104-3B/blob/ef12d6f62645f822e078fd9884b2ee19e68b1575/Exercises/3B_LAGANZON_MIDTERM.ipynb">Exercise 9</a></li>
+</ul>
 
 </body>
 </html>
