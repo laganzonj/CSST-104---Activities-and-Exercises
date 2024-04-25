@@ -34,7 +34,7 @@
 
         p b {
             font-size: 18px;
-            color: white;
+            
         }
 
         body {
