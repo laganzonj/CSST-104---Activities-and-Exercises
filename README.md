@@ -1,6 +1,5 @@
 
-<title>Activities and Exercises</title>
-
+<h1>Activities and Exercises</h1>
 
 <h2>Activities:</h2>
 
