@@ -15,7 +15,7 @@
             border: 1px solid #ccc;
             margin-bottom: 5px;
             padding: 10px;
-            width: 200px; /* Set a fixed width for the buttons */
+            width: 200px; 
             cursor: pointer;
             transition: background-color 0.3s;
         }
@@ -33,6 +33,7 @@
         }
 
         p b {
+            color: white;
             font-size: 18px;
             
         }
