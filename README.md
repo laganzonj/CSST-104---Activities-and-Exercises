@@ -1,5 +1,5 @@
 
-<h1>Activities and Exercises</h1>
+<h1>CSST 104 - Activities and Exercises</h1>
 
 <h2>Activities:</h2>
 
