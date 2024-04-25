@@ -37,7 +37,7 @@ Compilation of activities and exercises in CSST 104
 <body>
 
 <div class="btn-container">
-    <button class="btn" onclick="openLink('[https://www.example.com/link1](https://github.com/laganzonj/exercise_activity-CSST104-3B/commit/ee868a6be03ac46869f448ceaf9ff07abadce1a4)')" id="btn1">Link 1</button>
+    <button class="btn" onclick="openLink('https://github.com/laganzonj/exercise_activity-CSST104-3B/commit/ee868a6be03ac46869f448ceaf9ff07abadce1a4')" id="btn1">Link 1</button>
     <button class="btn" onclick="openLink('https://www.example.com/link2')" id="btn2">Link 2</button>
     <button class="btn" onclick="openLink('https://www.example.com/link3')" id="btn3">Link 3</button>
 </div>
