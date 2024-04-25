@@ -1,4 +1,3 @@
-
 <html>
 <head>
     <style>
@@ -30,8 +29,6 @@
     </style>
 </head>
 <body>
-
-<h1>CSST 104 - Activities and Exercises</h1>
 
 <p><b>I am Jonathan Q. Laganzon, a BSCS-IS-3B student. This webpage contains my exercises and activities for CSST 104. The activities and exercises focus on building models for regression or prediction, allowing me to explore and apply various concepts in data science and statistical modeling.</b></p>
 
