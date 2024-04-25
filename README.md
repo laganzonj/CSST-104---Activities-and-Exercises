@@ -1,5 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>CSST 104 - Activities and Exercises</title>
+    <style>
+        /* Style the button container */
+        .btn-container {
+            overflow: hidden;
+            border: 1px solid #ccc;
+            background-color: #f1f1f1;
+        }
+
+        /* Style the buttons */
+        .btn-container button {
+            background-color: inherit;
+            float: left;
+            border: none;
+            outline: none;
+            cursor: pointer;
+            padding: 14px 16px;
+            transition: 0.3s;
+        }
+
+        /* Change background color of buttons on hover */
+        .btn-container button:hover {
+            background-color: #ddd;
+        }
+
+        /* Create an active/current button class */
+        .btn-container button.active {
+            background-color: #ccc;
+        }
+    </style>
+</head>
+<body>
 
 <h1>CSST 104 - Activities and Exercises</h1>
+
+<p>I am Jonathan Q. Laganzon, a BSCS-IS-3B  student. This webpage contains my exercises and activities for CSST 104. The activities and exercises focus on building models for regression or prediction, allowing me to explore and apply various concepts in data science and statistical modeling.</p>
 
 <h2>Activities:</h2>
 
