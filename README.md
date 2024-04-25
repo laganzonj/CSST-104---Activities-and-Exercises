@@ -38,7 +38,7 @@
         }
 
         body {
-            background-image: url('file:///C:/VODA/bg/machine-learning_2.jpg');
+            background-image: url('bg/machine-learning_2.jpg');
             background-size: cover;
             background-repeat: no-repeat;
             background-attachment: fixed;
