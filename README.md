@@ -1,9 +1,6 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Activities and Exercises</title>
-</head>
-<body>
+
+<title>Activities and Exercises</title>
+
 
 <h2>Activities:</h2>
 
